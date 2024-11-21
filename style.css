@@ -1,0 +1,30 @@
+.green :nth-child(3){
+    color: green;  
+}
+.red :nth-child(2n){
+    color: red;
+}
+.pink :nth-child(odd){
+    color: pink;
+}
+.orange :nth-child(5){
+    color: orange;
+}
+.yellow :nth-child(3n){
+    color: yellow;
+}
+.green :hover{
+    color: aqua;
+}
+.red :visited {
+    color: purple;
+}
+.orange :focus{
+    color: goldenrod;
+}
+.pink link {
+    color: green;
+}
+.yellow :disabled{
+    color: dodgerblue;
+}
